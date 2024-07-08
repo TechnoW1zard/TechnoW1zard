@@ -12,5 +12,4 @@ Skills: С# / MYSQL / REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoW1zard)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/TechnoW1zard)  
 
