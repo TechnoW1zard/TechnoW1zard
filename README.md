@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋, my name Wizard
+#### I'm freelancer
 
-<!--
-**TechnoW1zard/TechnoW1zard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: С# / MYSQL / REACT / JS / HTML / CSS
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning C# \ React  
+- 📫 How to reach me: You can write me in Telegram 
+- ⚡ Fun fact: Most repository was private 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TechnoW1zard)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Techno_W1zard)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/TowerW1zard)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoW1zard)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/TechnoW1zard)  
+
